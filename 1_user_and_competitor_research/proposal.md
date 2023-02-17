@@ -6,7 +6,6 @@ The _italic text_ below is a guide to each section. Remove this text and add you
 
 ## Project summary
 
-_What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
 This website will showcase to the students of Manchester Metropolitan the type of music that has come from Manchester, including bands and artists. Also showing students well known music venues in Manchester they can visit in the future. 
 
 ## Business objectives/goals
